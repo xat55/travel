@@ -1,5 +1,4 @@
 <?php
-// add comment
 // хук добавляет в админку (справа) в раздел "Документ" подраздел "Изображение записи"
 add_action('after_setup_theme', 'mytheme_setup');
 
