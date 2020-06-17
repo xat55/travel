@@ -15,7 +15,7 @@
 	<div class="pagination">
 		<?php
 			// подключим файл пагинации
-			get_template_part( 'pagination' );
+			// get_template_part( 'pagination' );
 			// Теперь, где нужно вывести пагинацию используем
 			my_pagenavi();
 		?>

@@ -15,7 +15,7 @@
     <div class="pagination">
 		<?php
 			// подключим файл пагинации
-			include 'pagination.php';
+			// include 'pagination.php';
 			// Теперь, где нужно вывести пагинацию используем
 			my_pagenavi();
 		?>
